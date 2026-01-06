@@ -4,7 +4,7 @@ namespace sales;
 
 entity SalesOrderHeaders: managed {
     key id: UUID;
-        customers: Association to Customers;
+        customer: Association to Customers;
         totalAmount: Decimal(15,2); //Ele pode ter até 15 digitos considerando após a virgula, a casa dois seria o ponto flutuante que é os numeros alem da virgula. Entao basicamente esses numeros delimitao quantos numeros vao ter em cada area 
         items: Composition of many SalesOrderItems on items.header = $self;     
 }

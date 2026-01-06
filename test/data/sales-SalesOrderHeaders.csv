@@ -1,4 +1,4 @@
-id,customers_id,totalAmount,createdAt,createdBy,modifiedAt,modifiedBy
+id,customer_ID,totalAmount,createdAt,createdBy,modifiedAt,modifiedBy
 103684b0-ad06-455b-a0cf-7e7d56b4d607,10228182-8c66-48ff-b4bf-e6cd11e4955f,942378315015.5,2013-01-26T02:00:00.000Z,createdBy.2804@example.net,2002-05-14T02:00:00.000Z,modifiedBy.2804@example.org
 10368587-1640-421f-b11e-ba6e12ce3fe3,10228182-8c66-48ff-b4bf-e6cd11e4955f,183915493322.05,2018-09-28T02:00:00.000Z,createdBy.2805@example.org,2020-09-27T02:00:00.000Z,modifiedBy.2805@example.com
 1036863c-ff32-4a6a-8bd4-958ac760327f,10228182-8c66-48ff-b4bf-e6cd11e4955f,9698571909264.99,2017-08-24T02:00:00.000Z,createdBy.2806@example.org,2021-10-14T02:00:00.000Z,modifiedBy.2806@example.org
